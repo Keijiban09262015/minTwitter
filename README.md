@@ -14,3 +14,9 @@
   - [Rubyコーディング規約](http://shugo.net/ruby-codeconv/codeconv.html)
   - [bootstrap公式サイト](http://getbootstrap.com/)
   - [RailsにTwitter Bootstrapの導入と簡易な使い方](http://ruby-rails.hatenadiary.com/entry/20140801/1406818800)
+
+## 次回
+- 2015/11/7
+- 成果物発表
+- 課題Q&A
+- 次回課題提案
