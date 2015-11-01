@@ -8,6 +8,9 @@
 
 1. twitter bootstrapの導入
 2. 会員登録機能追加
+  - [Ruby on Rails チュートリアル
+実例を使ってRailsを学ぼう](http://railstutorial.jp/chapters/log_in_log_out?version=4.2)
+    - 6章 ~ 8章参考
 
 ## 参考
   - [小学生でもわかるRuby on Rails入門](http://openbook4.me/projects/92)
