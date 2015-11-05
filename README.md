@@ -11,6 +11,11 @@
   - [Ruby on Rails チュートリアル
 実例を使ってRailsを学ぼう](http://railstutorial.jp/chapters/log_in_log_out?version=4.2)
     - 6章 ~ 8章参考
+3. 画像のアップロード
+  - 会員登録する時の画像アップロードと想定
+4. 1~3で連携し、以下の制限をかける
+  - ログインユーザしか投稿できない
+  - 投稿者画像つき投稿
 
 ## 参考
   - [小学生でもわかるRuby on Rails入門](http://openbook4.me/projects/92)
